@@ -373,6 +373,10 @@
   .text-center {
     text-align: center;
   }
+  .text-\[15px\]\/\[32px\] {
+    font-size: 15px;
+    line-height: 32px;
+  }
   .text-\[17px\]\/\[23px\] {
     font-size: 17px;
     line-height: 23px;
